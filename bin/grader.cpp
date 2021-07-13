@@ -2,9 +2,6 @@
 #include <assert.h>
 #define MAXN 20000000
 
-
-/* My solution
-*/
 #include <bits/stdc++.h>
 using namespace std;
 vector <int> fragole_cost;
